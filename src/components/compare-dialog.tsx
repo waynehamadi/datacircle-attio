@@ -69,7 +69,7 @@ function BestOnEach({provider}: {provider: Provider}) {
                         </Table.Body>
                     </Table>
                     {list.bestPage ? (
-                        <Link href={list.bestPage}>See every plan for {list.api}</Link>
+                        <Link href={list.bestPage}>{`See every plan for ${list.api}`}</Link>
                     ) : null}
                 </Section>
             ))}
