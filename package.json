@@ -37,8 +37,7 @@
   "overrides": {
     "eslint-plugin-react": {
       "eslint": "$eslint"
-    },
-    "keytar": "file:../keytar-file"
+    }
   },
   "homepage": "https://datacircle.dev"
 }

@@ -1,0 +1,12 @@
+node_modules
+graphql.d.ts
+.attio
+.env
+.env.local
+.DS_Store
+.cursor
+dist
+*.tsbuildinfo
+AGENTS.md
+CLAUDE.md
+.mcp.json
