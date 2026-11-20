@@ -1,0 +1,6 @@
+query GetCompany($recordId: String!) {
+  company(id: $recordId) {
+    name
+    domains
+  }
+}
