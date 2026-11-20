@@ -4,6 +4,8 @@ See where a company ranks among the GTM API providers on [Datacircle](https://da
 
 Datacircle benchmarks the GTM APIs (company data, people data, email finding, verification and more) with real calls and ranks every plan on its results and price. This app reads those results from the open Datacircle API: no key, no account, nothing to connect.
 
+Watch it at work, from Install to the Compare API plans table (73 s): https://waynehamadi.github.io/datacircle-attio/walkthrough.mp4
+
 ## Install
 
 1. In Attio, open **Settings → Apps**, search for **Datacircle** and click **Install**.
